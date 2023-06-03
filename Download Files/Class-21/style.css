@@ -1,0 +1,37 @@
+p{
+	display: none;
+}
+
+
+.abc{
+	color: red;
+	background: black;
+}
+
+.xyz{
+	color: green;
+}
+
+/*.post{
+	display: none;
+}*/
+
+.photo{
+	width: 30%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	display: none;
+}
+.photo img{
+	width: 100%;
+	height: auto;
+}
+.photo i{
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	color: #fff;
+	cursor: pointer;
+}
